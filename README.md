@@ -12,7 +12,7 @@
     <a href="https://dev.to/cbstanley12">
         <img src="https://img.shields.io/badge/ -View DEV Profile-0A0A0A?style=flat&logo=dev.to">
     </a>
-    <a href="www.linkedin.com/in/cbstanley12">
+    <a href="https://linkedin.com/in/cbstanley12">
         <img src="https://img.shields.io/badge/ -Connect on LinkedIn-0077B5?style=flat&logo=linkedin">
     </a>
 </div>
@@ -62,13 +62,13 @@
 | 22 | 23 | 24 | 25 |  |  |  |
 
 ## 2019 Puzzle Solutions
-### Day 1
+### Day 1 [:link:](https://adventofcode.com/2019/day/1)
 > The Tyranny of the Rocket Equation
 
 [![JavaScript Solution](https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=F7DF1E&label=JavaScript&color=success&message=Solution)](2019/day01/JavaScript/solution.js)
 [![Python Solution](https://img.shields.io/static/v1?style=flat&logo=python&label=Python&color=lightgrey&message=Not+Started)]()
 
-### Day 2
+### Day 2 [:link:](https://adventofcode.com/2019/day/2)
 > 1202 Program Alarm
 
 [![JavaScript Solution](https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=F7DF1E&label=JavaScript&color=success&message=Solution)](2019/day02/JavaScript/solution.js)
