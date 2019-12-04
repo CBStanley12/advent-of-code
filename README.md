@@ -21,7 +21,7 @@
     <h4>
         <a href="#current-progress">Current Progress</a>
         <span> | </span>
-        Puzzle Solutions: 
+        Puzzle Solutions:
         <a href="#2019">2019</a>
         <span> | </span>
         <a href="#license">License</a>
@@ -34,6 +34,7 @@
    * [Current Progress](#current-progress)
    * [2019 Puzzle Solutions](#2019-puzzle-solutions)
       * [Day 1](#day-1)
+      * [Day 2](#day-2)
 
 </details>
 
@@ -46,7 +47,7 @@
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |----|----|----|----|----|----|----|
-| 01 :white_check_mark: | 02 | 03 | 04 | 05 | 06 | 07 |
+| 01 :white_check_mark: | 02 :white_check_mark: | 03 | 04 | 05 | 06 | 07 |
 | 08 | 09 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 |  |  |  |
@@ -65,6 +66,12 @@
 > The Tyranny of the Rocket Equation
 
 [![JavaScript Solution](https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=F7DF1E&label=JavaScript&color=success&message=Solution)](2019/day01/JavaScript/solution.js)
+[![Python Solution](https://img.shields.io/static/v1?style=flat&logo=python&label=Python&color=lightgrey&message=Not+Started)]()
+
+### Day 2
+> 1202 Program Alarm
+
+[![JavaScript Solution](https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=F7DF1E&label=JavaScript&color=success&message=Solution)](2019/day02/JavaScript/solution.js)
 [![Python Solution](https://img.shields.io/static/v1?style=flat&logo=python&label=Python&color=lightgrey&message=Not+Started)]()
 
 ## License
