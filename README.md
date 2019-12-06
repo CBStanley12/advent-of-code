@@ -52,11 +52,11 @@
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 |  |  |  |
 
-### Python Solutions ![JavaScript Solutions](https://img.shields.io/badge/&nbsp;-1&nbsp;of&nbsp;25-orange?logo=python&logoColor=4B8BBE&labelColor=5a5a5a)
+### Python Solutions ![JavaScript Solutions](https://img.shields.io/badge/&nbsp;-2&nbsp;of&nbsp;25-orange?logo=python&logoColor=4B8BBE&labelColor=5a5a5a)
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |----|----|----|----|----|----|----|
-| 01 :white_check_mark: | 02 | 03 | 04 | 05 | 06 | 07 |
+| 01 :white_check_mark: | 02 :white_check_mark: | 03 | 04 | 05 | 06 | 07 |
 | 08 | 09 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 |  |  |  |
@@ -72,7 +72,7 @@
 > 1202 Program Alarm
 
 [![JavaScript Solution](https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=F7DF1E&label=JavaScript&color=success&message=Solution)](2019/day02/JavaScript/solution.js)
-[![Python Solution](https://img.shields.io/static/v1?style=flat&logo=python&label=Python&color=lightgrey&message=Not+Started)]()
+[![Python Solution](https://img.shields.io/static/v1?style=flat&logo=python&label=Python&color=success&message=Solution)](2019/day02/Python/solution.py)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
