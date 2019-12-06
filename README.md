@@ -29,7 +29,7 @@
 </div>
 
 <details>
-<summary style="font-size: 1.5em; margin-top: 24px;">Table of Contents</summary>
+<summary>Table of Contents</summary>
 
    * [Current Progress](#current-progress)
    * [2019 Puzzle Solutions](#2019-puzzle-solutions)
@@ -42,7 +42,7 @@
 
 ## Current Progress
 
-### JavaScript Solutions ![JavaScript Solutions](https://img.shields.io/badge/&nbsp;-1&nbsp;of&nbsp;25-orange?logo=javascript&labelColor=5a5a5a)
+### JavaScript Solutions ![JavaScript Solutions](https://img.shields.io/badge/&nbsp;-2&nbsp;of&nbsp;25-orange?logo=javascript&labelColor=5a5a5a)
 
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
@@ -52,11 +52,11 @@
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 |  |  |  |
 
-### Python Solutions ![JavaScript Solutions](https://img.shields.io/badge/&nbsp;-0&nbsp;of&nbsp;25-lightgrey?logo=python&logoColor=4B8BBE&labelColor=5a5a5a)
+### Python Solutions ![JavaScript Solutions](https://img.shields.io/badge/&nbsp;-1&nbsp;of&nbsp;25-orange?logo=python&logoColor=4B8BBE&labelColor=5a5a5a)
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |----|----|----|----|----|----|----|
-| 01 | 02 | 03 | 04 | 05 | 06 | 07 |
+| 01 :white_check_mark: | 02 | 03 | 04 | 05 | 06 | 07 |
 | 08 | 09 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 |  |  |  |
@@ -66,7 +66,7 @@
 > The Tyranny of the Rocket Equation
 
 [![JavaScript Solution](https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=F7DF1E&label=JavaScript&color=success&message=Solution)](2019/day01/JavaScript/solution.js)
-[![Python Solution](https://img.shields.io/static/v1?style=flat&logo=python&label=Python&color=lightgrey&message=Not+Started)]()
+[![Python Solution](https://img.shields.io/static/v1?style=flat&logo=python&label=Python&color=success&message=Solution)](2019/day01/Python/solution.py)
 
 ### Day 2 [:link:](https://adventofcode.com/2019/day/2)
 > 1202 Program Alarm
