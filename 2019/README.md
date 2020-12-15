@@ -13,8 +13,7 @@
 </br>
 
 
-### Day 1 [:link:](https://adventofcode.com/2019/day/1)
-> The Tyranny of the Rocket Equation
+## Day 1: The Tyranny of the Rocket Equation [:link:](https://adventofcode.com/2019/day/1)
 
 **Part One:** What is the sum of the fuel requirements for all of the modules on your spacecraft?
 **Answer:** 3279287
@@ -23,8 +22,7 @@
 **Answer:** 4916076
 
 
-### Day 2 [:link:](https://adventofcode.com/2019/day/2)
-> 1202 Program Alarm
+## Day 2: 1202 Program Alarm [:link:](https://adventofcode.com/2019/day/2)
 
 **Part One:** What value is left at position 0 after the program halts?
 **Answer:** 3790689
