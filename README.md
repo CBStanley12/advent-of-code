@@ -30,6 +30,18 @@
 </br>
 
 
+## 2020 Puzzle Solutions
+
+#### [Puzzles and Answers](2020/README.md)
+
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 01 </br> [![JavaScript](assets/js.svg)](2020/javascript/01_solution.js) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 02 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 03 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 04 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 05 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 06 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 07 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript) [![Python Logo](assets/python-unfinished.svg)](2019/python/) |
+| 08 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 09 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/02_solution.js) | 10 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 11 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 12 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 13 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 14 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) |
+| 15 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 16 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 17 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 18 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 19 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 20 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 21 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) |
+| 22 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 23 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 24 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) | 25 </br> [![JavaScript](assets/js-unfinished.svg)](2020/javascript/) [![Python Logo](assets/python-unfinished.svg)](2020/python/) |
+
+
 ## 2019 Puzzle Solutions
 
 #### [Puzzles and Answers](2019/README.md)
