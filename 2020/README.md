@@ -7,6 +7,7 @@
 
    * [Day 1](#day-1)
    * [Day 2](#day-2)
+   * [Day 3](#day-3)
 
 </details>
 
@@ -53,3 +54,32 @@ Each policy actually describes two positions in the password, where 1 means the 
 How many passwords are valid according to the new interpretation of the policies?
 
 ***Answer: 352***
+
+
+## Day 3: Toboggan Trajectory
+
+[:globe_with_meridians:](https://adventofcode.com/2020/day/3) Puzzle Details
+
+[:link:](data/03.txt) Puzzle Input
+
+### Part One:
+You start on the open square (.) in the top-left corner and need to reach the bottom (below the bottom-most row on your map).
+The toboggan can only follow a few specific slopes (you opted for a cheaper model that prefers rational numbers); start by counting all the trees you would encounter for the slope right 3, down 1:
+From your starting position at the top-left, check the position that is right 3 and down 1. Then, check the position that is right 3 and down 1 from there, and so on until you go past the bottom of the map.
+
+Starting at the top-left corner of your map and following a slope of right 3 and down 1, how many trees would you encounter?
+
+***Answer: 262***
+
+### Part Two:
+Time to check the rest of the slopes - you need to minimize the probability of a sudden arboreal stop, after all.
+Determine the number of trees you would encounter if, for each of the following slopes, you start at the top-left corner and traverse the map all the way to the bottom:
+* Right 1, down 1.
+* Right 3, down 1. (This is the slope you already checked.)
+* Right 5, down 1.
+* Right 7, down 1.
+* Right 1, down 2.
+
+What do you get if you multiply together the number of trees encountered on each of the listed slopes?
+
+***Answer: 2698900776***
